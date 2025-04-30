@@ -7,7 +7,7 @@
                     <a a href="index.php?modulo=registro" class="nav-link">Registro</a>
                     </li>
                     <li class="nav-item">
-                        <a href="index.php?pagina=contenido" class="nav-link active">Inicio</a>
+                        <a href="index.php?modulo=contenido" class="nav-link active">Inicio</a>
                 </li>
                 <li class="nav-item">
                         <a href="index.php?modulo=ingreso" class="nav-link">Ingreso</a>
