@@ -1,0 +1,1 @@
+<h1>Saliendo de l aplicació</h1>
