@@ -4,7 +4,7 @@
 
         static public function conectar(){
 
-            $link = new PDO("mysql:host=localhost:3307;dbname=php_sena","root","");
+            $link = new PDO("mysql:host=localhost:3307;dbname=php_sena","root","root");
             return $link;
 
         }
